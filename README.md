@@ -154,7 +154,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 5.  Abra um Pull Request.
 
 ## 📽️ Demonstração em Vídeo
-- O vídeo de demonstração do projeto pode ser visualizado aqui: [Link para o vídeo](https://drive.google.com/file/d/1CtTBlMcizYix0AwHNDmm700G4hOCUKI9/view?usp=sharing)
+- O vídeo de demonstração do projeto pode ser visualizado aqui: [Link para o vídeo](https://drive.google.com/file/d/1crvcX16N1QnBwvvMM9pAWCE4YnL0bjBB/view?usp=sharing)
 
 ## 💡 Considerações Finais
 Este projeto demonstra a capacidade do Raspberry Pi Pico W em construir sistemas de monitoramento ambiental conectados e interativos. A combinação de sensores, interface web, e sistemas de alerta visual e sonoro oferece uma solução completa para supervisão de ambientes. O servidor web e a funcionalidade de calibração remota aumentam a flexibilidade e usabilidade do sistema. Futuras expansões poderiam incluir o registro de dados em um cartão SD, integração com plataformas de IoT para monitoramento em nuvem, ou a adição de mais tipos de sensores para uma análise ambiental mais abrangente.
