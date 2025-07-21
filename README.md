@@ -100,7 +100,7 @@ Este projeto utiliza o Raspberry Pi Pico W para monitorar condições ambientais
     (Substitua `<URL_DO_SEU_REPOSITORIO>` pela URL real do seu repositório Git, se houver um.)
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd estacao_clime
+    cd estacao_clima
     ```
 3.  **Configure as credenciais Wi-Fi:**
     No arquivo `main.c`, altere `WIFI_SSID` e `WIFI_PASSWORD` para as credenciais da sua rede Wi-Fi:
